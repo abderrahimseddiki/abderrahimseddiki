@@ -15,7 +15,7 @@ computer vision and the MLOps that takes them to production.
 | [rag-legal-assistant](https://github.com/abderrahimseddiki/rag-legal-assistant) | Q&A over Belgian legal codes with cited, verifiable answers | LangChain · ChromaDB · FastAPI | ✅ |
 | llm-multi-tool-agent | Agent that analyses job offers, triages tickets and writes reports | LangGraph · Playwright · PostgreSQL | 🛠️ in progress |
 | lora-small-vs-large | Fine-tuned Mistral 7B vs GPT-4o on legal classification: quality, cost, latency | PEFT/LoRA · HuggingFace | 🛠️ in progress |
-| mlops-pipeline | Training → tracked → containerised → monitored ML service | MLflow · Docker · GitHub Actions · Evidently | 🛠️ in progress |
+| [mlops-pipeline](https://github.com/abderrahimseddiki/mlops-pipeline) | Training → quality gate → containerised API → drift monitoring | MLflow · Docker · GitHub Actions · Prometheus · Grafana | ✅ |
 | parking-detection-yolov8 | Real-time free parking spot detection on video streams | YOLOv8 · OpenCV · FastAPI | 🛠️ in progress |
 | ai-cv-generator-saas | Full-stack SaaS generating a CV tailored to a job offer | React · Node.js · PostgreSQL · Stripe | 🛠️ in progress |
 
