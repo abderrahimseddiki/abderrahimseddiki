@@ -6,7 +6,7 @@ BSc Mathematics & Computer Science – AI (University of Bordeaux).
 I build practical AI systems end to end: retrieval-augmented assistants, LLM agents, fine-tuned models,
 computer vision and the MLOps that takes them to production.
 
-🌍 French (C1) · English (B2) · Arabic (native) — 📍 Brussels, Belgium
+🌍 French · English · Arabic — 📍 Brussels, Belgium
 
 ## 🚀 Projects
 
